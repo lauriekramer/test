@@ -2,4 +2,4 @@
 
 use strict;
 
-print "Goodbye, world\n";
+print "Goodbye, cruel world\n";
